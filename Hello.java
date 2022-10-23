@@ -1,7 +1,7 @@
 class {
-  public static void main(String [args])
+  Public static void main(String [args])
      {
-      System.out.ptintln("Hello");
+      System.out.ptintln("Hello!!!! Welcome to devops learning...");
      }
 }
 	
